@@ -5,17 +5,6 @@ Simple code to match.dev
 This API was constructed to get some information if the specific company is Simple Nacional. Simples Nacional is a kind of company in Brazil
 
 ## Environment variables
-
-TOKEN_JWT=ApRIn(23AaSDppOE)!@dA
-DATABASE=backoffice_api_h
-HOST_DATABASE=sqlhml
-INSTANCE_DATABASE=instsql03
-USERNAME_DATABASE=owner_backoffice_api
-PASS_DATABASE=&OI9,Bn0Ap$!1*T
-PORT_DATABASE=1433
-TOKEN_SIMPLES_API=0KwgmGRYjSxW6CHIv8CJeooWerGkxBaSdhi4zs92NpVJV8mhWd6sYlTwgj8F
-URL_SIMPLES_API='https://apiv2.motorfiscal.com.br/simplesNacional'
-
 `TOKEN_JWT`ApRIn(23AaSDppOE)!@dA
 `DATABASE`backoffice_api_h
 `PORT_DATABASE`1433
